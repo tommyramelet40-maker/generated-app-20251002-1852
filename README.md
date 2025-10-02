@@ -2,7 +2,7 @@
 
 A visually stunning, minimalist real-time chat application inspired by Discord for seamless communication in dedicated communities.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tommyramelet40-maker/generated-app-20251002-1852)
 
 ConnectSphere is a real-time chat application built with a minimalist design philosophy. It allows users to communicate within dedicated spaces called 'Spheres' (servers), each containing multiple text-based 'Channels'. The application features a classic, intuitive three-column layout for seamless navigation and interaction. The entire experience is designed to be clean, fast, and visually stunning, prioritizing clarity and ease of use.
 
@@ -91,4 +91,4 @@ This application is designed to be deployed to the Cloudflare network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tommyramelet40-maker/generated-app-20251002-1852)
